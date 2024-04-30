@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569761403456",
+    "project_id": "raj-dootam",
+    "storage_bucket": "raj-dootam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569761403456:android:f8fcd32f499e48430c05a5",
+        "android_client_info": {
+          "package_name": "com.example.raj_dootam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKAiXncmPYVqzAr9jarVx58-xu-ybsf3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
