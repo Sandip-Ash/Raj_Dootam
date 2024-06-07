@@ -8,6 +8,7 @@ This **Chatting App** is a user-friendly application built using **Flutter** and
 - **User Login**: Existing users can log in with their email and password.
 - **Real-Time Messaging**: Enjoy instant messaging with real-time updates.
 - **User-Friendly Interface**: Simple and intuitive design for a hassle-free experience.
+- **Light and Dark Mode**: Switch between light and dark themes for a comfortable chatting experience in any lighting condition.
 
 ## Technologies Used
 
@@ -16,6 +17,6 @@ This **Chatting App** is a user-friendly application built using **Flutter** and
 
 ## Download the App
 
-Scan the QR code below to download the **Soul Conferencing App**:
+Scan the QR code below to download the **Raj Dootam App**:
 
 <img src="https://github.com/Sandip-Ash/Raj_Dootam/blob/main/assets/Raj_Dootam_QR.png" alt="QR Code" width="200" height="200">
